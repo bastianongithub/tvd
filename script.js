@@ -34,7 +34,7 @@ let noClickCount = 0
 let runawayEnabled = false
 let musicPlaying = true
 
-const catGif = document.getElementById('cat-gif')
+const dogGif = document.getElementById('dog-gif')
 const yesBtn = document.getElementById('yes-btn')
 const noBtn = document.getElementById('no-btn')
 const music = document.getElementById('bg-music')
@@ -116,10 +116,10 @@ function handleNoClick() {
 }
 
 function swapGif(src) {
-    catGif.style.opacity = '0'
+    dogGif.style.opacity = '0'
     setTimeout(() => {
-        catGif.src = src
-        catGif.style.opacity = '1'
+        dogGif.src = src
+        dogGif.style.opacity = '1'
     }, 200)
 }
 
