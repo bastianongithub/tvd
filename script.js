@@ -1,11 +1,11 @@
 const gifStages = [
-    "https://media.tenor.com/EBV7OT7ACfwAAAAj/u-u-qua-qua-u-quaa.gif",    // 0 normal
-    "https://media1.tenor.com/m/uDugCXK4vI4AAAAd/chiikawa-hachiware.gif",  // 1 confused
-    "https://media.tenor.com/f_rkpJbH1s8AAAAj/somsom1012.gif",             // 2 pleading
-    "https://media.tenor.com/OGY9zdREsVAAAAAj/somsom1012.gif",             // 3 sad
-    "https://media1.tenor.com/m/WGfra-Y_Ke0AAAAd/chiikawa-sad.gif",       // 4 sadder
-    "https://media.tenor.com/CivArbX7NzQAAAAj/somsom1012.gif",             // 5 devastated
-    "https://media.tenor.com/5_tv1HquZlcAAAAj/chiikawa.gif",               // 6 very devastated
+    "https://i.giphy.com/l3q2XXYxkdxzjMC9G.webp",    // 0 normal
+    "https://i.giphy.com/N2YxIJpkEHdO2JKtMQ.webp",  // 1 confused
+    "https://i.giphy.com/XYEEvoX0Ub69ZgN9ai.webp",             // 2 pleading
+    "https://i.giphy.com/8boMf1VXVHoJy.webp",             // 3 sad
+    "https://i.giphy.com/AYKv7lXcZSJig.webp",       // 4 sadder
+    "https://i.giphy.com/CqhXFa7dLc9xK.webp",             // 5 devastated
+    "https://i.giphy.com/G6IATw3N0jhIc.webp",               // 6 very devastated
     "https://media1.tenor.com/m/uDugCXK4vI4AAAAC/chiikawa-hachiware.gif"  // 7 crying runaway
 ]
 
