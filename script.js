@@ -14,7 +14,7 @@ const noMessages = [
     "Are you sure? 🤔",
     "Please... 🥺",
     "If you say no, I will be really bunny mad...",
-    "Tôi sẽ rất buồn...... 😢",
+    "Anh sẽ rất buồn...... 😢",
     "Please??? 💔",
     "Don't do this to me...",
     "Last chance! 😭",
