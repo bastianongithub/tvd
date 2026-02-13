@@ -2,7 +2,7 @@ const gifStages = [
     "https://i.giphy.com/l3q2XXYxkdxzjMC9G.webp",    // 0 normal
     "https://i.giphy.com/N2YxIJpkEHdO2JKtMQ.webp",  // 1 confused
     "https://i.giphy.com/XYEEvoX0Ub69ZgN9ai.webp",             // 2 pleading
-    "https://i.giphy.com/8boMf1VXVHoJy.webp",             // 3 sad
+    "https://pbs.twimg.com/media/HA6Fbf7bsAAFEqK.jpg",             // 3 sad
     "https://i.giphy.com/AYKv7lXcZSJig.webp",       // 4 sadder
     "https://i.giphy.com/CqhXFa7dLc9xK.webp",             // 5 devastated
     "https://i.giphy.com/G6IATw3N0jhIc.webp",               // 6 very devastated
